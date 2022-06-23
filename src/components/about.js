@@ -33,6 +33,7 @@ const About = () => {
                 <VscFolderLibrary className="award_icon" />
                 <Desc>Projects</Desc>
                 <Small>10+ Completed</Small>
+                <h1>Hello Git</h1>
               </AboutCard>
             </AboutCards>
             <Content>
